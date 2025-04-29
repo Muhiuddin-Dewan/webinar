@@ -4,6 +4,6 @@
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
-        <h1>This is a heading</h1>
+        <h1>This is a webinar</h1>
 </body>
 </html>
